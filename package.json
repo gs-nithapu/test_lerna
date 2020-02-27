@@ -1,6 +1,7 @@
 {
   "name": "gs-lerna",
   "version": "19.0.0",
+  "private": true,
   "workspaces": [
     "apps/*"
   ],
