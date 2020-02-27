@@ -1,7 +1,6 @@
 {
   "name": "gs-ui",
   "version": "19.0.0",
-  "private": false,
   "workspaces": [
     "apps/*"
   ],
