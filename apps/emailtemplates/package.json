@@ -1,9 +1,10 @@
 {
   "name": "@naveen_champ/emailtemplates",
   "version": "19.0.10-alpha.0",
+  "private": false,
   "dependencies": {
     "lodash": "^4.17.15",
     "webpack": "^4.41.6"
   },
-  "gitHead": "f9baaa33f07def4521e48b080cd68cfb173d6dd7"
+  "gitHead": "27e3eebf1ec470e14e87d0ce680c5441129cc073"
 }
