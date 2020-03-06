@@ -1,11 +1,11 @@
 {
   "name": "@naveen_champ/emailtemplates",
-  "version": "20.1.0",
+  "version": "20.1.1",
   "private": false,
   "dependencies": {
+    "@naveen_champ/timeline": "2.1.0",
     "lodash": "^4.17.15",
-    "webpack": "^4.41.6",
-    "@naveen_champ/timeline": "2.1.0"
+    "webpack": "^4.41.6"
   },
   "gitHead": "4104ffe8ccee26bbc0d3adb5a8b99d832b8e33c5"
 }
