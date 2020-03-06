@@ -1,0 +1,12 @@
+{
+  "name": "gs-lerna",
+  "version": "19.0.0",
+  "private": true,
+  "workspaces": [
+    "emailtemplates",
+    "timeline"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
