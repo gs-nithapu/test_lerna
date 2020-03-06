@@ -1,0 +1,3 @@
+import {HELLOW} from "@naveen_champ/timeline/messages";
+
+console.log(HELLOW);
