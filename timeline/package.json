@@ -1,6 +1,6 @@
 {
   "name": "@naveen_champ/timeline",
-  "version": "18.0.0",
+  "version": "0.0.0",
   "private": false,
   "dependencies": {
     "lodash": "^4.17.15",
