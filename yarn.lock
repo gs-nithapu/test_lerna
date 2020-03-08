@@ -769,14 +769,6 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@naveen_champ/timeline@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@naveen_champ/timeline/-/timeline-2.1.0.tgz#ccf66825ac083357f06a11ed492d11609c7241d4"
-  integrity sha512-e5e7izNzbV7uzzzCgubSnAe+I7Aestvljivev0lV0yI6Gpc2HLrG3i1s6cI5xnggkwr6GV8Ibp+fEL6Idiu7ZQ==
-  dependencies:
-    lodash "^4.17.15"
-    webpack "^4.41.6"
-
 "@nodelib/fs.stat@^1.1.2":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"

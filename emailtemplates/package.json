@@ -1,9 +1,8 @@
 {
   "name": "@naveen_champ/emailtemplates",
-  "version": "20.2.0",
+  "version": "18.0.0",
   "private": false,
   "dependencies": {
-    "@naveen_champ/timeline": "2.1.0",
     "lodash": "^4.17.15",
     "webpack": "^4.41.6"
   },
