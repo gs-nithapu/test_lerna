@@ -1,4 +1,4 @@
-import {HELLOW} from "@naveen_champ/timeline/messages";
+import {HELLO} from "@naveen_champ/timeline/messages";
 
 
-console.log(`Out::==> ${HELLOW}`);
+console.log(`Out::==> ${HELLO}`);
