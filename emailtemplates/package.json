@@ -3,6 +3,7 @@
   "version": "18.0.1",
   "private": false,
   "dependencies": {
+    "@naveen_champ/timeline": "github:Gainsight/gs-ui.git#master",
     "lodash": "^4.17.15",
     "webpack": "^4.41.6"
   },
