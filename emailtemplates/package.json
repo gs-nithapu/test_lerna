@@ -1,6 +1,6 @@
 {
   "name": "@naveen_champ/emailtemplates",
-  "version": "20.1.2",
+  "version": "20.2.0",
   "private": false,
   "dependencies": {
     "@naveen_champ/timeline": "2.1.0",
