@@ -769,10 +769,6 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@naveen_champ/timeline@github:Gainsight/gs-ui.git#master":
-  version "19.0.0"
-  resolved "git+ssh://git@github.com/Gainsight/gs-ui.git#424b68ee7dbb381e729c910f24a0694730bc585c"
-
 "@nodelib/fs.stat@^1.1.2":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
