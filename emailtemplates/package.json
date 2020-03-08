@@ -3,7 +3,7 @@
   "version": "20.1.2",
   "private": false,
   "dependencies": {
-    "@naveen_champ/timeline": "^2.1.1",
+    "@naveen_champ/timeline": "2.1.0",
     "lodash": "^4.17.15",
     "webpack": "^4.41.6"
   },
